@@ -10,7 +10,9 @@ and corresponding taxonomy text files in QIIME 1 compatible format.
 
 <i>16S-UDb_QIIME_taxonomy.txt</i>: to use with all other classifiers in-built in QIIME (except RDP and MOTHUR)
 
-<b>NOTES:</b>
+
+
+<b>NOTE:</b>
 
 The 16S-UDb taxonomy has six levels (Phylum, Class, Order, Family, Genus, Species) 
 in order to make it compatible with QIIME analysis pipeline
