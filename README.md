@@ -1,5 +1,5 @@
 # 16S-UDb v1.0
-A unified curated reference database for improving the taxonomic classification of bacteria using 16S rRNA sequence data
+Agnihotry S, Sarangi AN, Aggarwal R. Construction & assessment of a unified curated reference database for improving the taxonomic classification of bacteria using 16S rRNA sequence data. Indian J Med Res. 2020 Jan;151(1):93-103. doi: 10.4103/ijmr.IJMR_220_18. PMID: 32134020; PMCID: PMC7055167.
 
 <b>Files:</b>
 
